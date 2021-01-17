@@ -1,0 +1,34 @@
+name: ProCandrV4
+version: ${project.version}
+main: me.prosl3nderman.procandrv4.ProCandrV4
+api-version: 1.13
+depend: [Vault]
+commands:
+  procandr:
+    description: Admin command.
+  join:
+    description: Used to join a game.
+  leave:
+    description: Used to leave a game.
+  cops:
+    description: Used to join the cops team.
+  stats:
+    description: Shows your player stats.
+  top:
+    description: Lets you see the top stats.
+  hub:
+    description: Takes you back to survival, skyblock, and creative server.
+  open:
+    description: Open cell command.
+  mod:
+    description: Mod command.
+  discord:
+    description: Discord command.
+  message:
+    description: Message a player.
+    aliases: [msg,pm,m,whisper]
+  reply:
+    description: Reply to a message.
+    aliases: [r]
+  vote:
+    description: Shows all the voting sites. /vote

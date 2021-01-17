@@ -1,0 +1,42 @@
+mapName:
+  world: 'world'
+  copspawnloc: 'world;x;y;z;true'
+  engineSign: 'world;x;y;z;false'
+  escapeRegionBlock1: 'world;x;y;z;false'
+  escapeRegionBlock2: 'world;x;y;z;false'
+  cells:
+    spawnpoints:
+    - loc
+    - loc
+    doors:
+    - loc
+    - loc
+  levers:
+  - loc
+  - loc
+  bupdates:
+  - loc
+  - loc
+  joinSign: 'world;x;y;z;false'
+  staffAccess:
+    world;x;y;z;false: 'world;x;y;z;true'
+  cameras:
+    1:
+      regionBlock1: 'world;x;y;z;false'
+      regionBlock2: 'world;x;y;z;false'
+  dirtAndGarbageSpots:
+  - loc
+  - loc
+  jobDoors:
+    janitor:
+      door: 'world;x;y;z;false'
+      destination: 'world;x;y;z;false'
+    librarian:
+      door: 'world;x;y;z;false'
+      destination: 'world;x;y;z;false'
+    cook:
+      door: 'world;x;y;z;false'
+      destination: 'world;x;y;z;false'
+    laundryman:
+      door: 'world;x;y;z;false'
+      destination: 'world;x;y;z;false'

@@ -1,0 +1,91 @@
+configVersion: 1
+spawn: 'world;x;y;z'
+discord: "https://discordapp.com/invite/zqG53PS"
+dropCopItemsPermission: 'ProCandr.dropCopItems'
+test: true
+maps: []
+storePrices:
+  items:
+    lhelm: 600
+    lchestplate: 800
+    lleggings: 700
+    lboots: 500
+    cchestplate: 2000
+    cleggings: 1900
+    thelm: 3000
+    wpic: 1000
+    wshovel: 1200
+    spic: 2300
+    sshovel: 2500
+  potions:
+    jpot1: 2000
+    jpot2: 3000
+    jsplash: 2500
+    sppot1: 3000
+    sppot2: 4000
+    spsplash: 3500
+    hpot1: 1000
+    hpot2: 2000
+    hsplash: 1500
+    slsplash1: 3000
+    slsplash2: 3500
+    psplash1: 4000
+    psplash2: 5000
+voteLinks:
+  minecraft-server-list: https://minecraft-server-list.com/server/432769/vote/
+  minecraftservers: https://minecraftservers.org/vote/519921
+  minecraft-server: https://minecraft-server.net/vote/dragonsdoom
+  minecraft-mp: https://minecraft-mp.com/server/208648/vote/
+  pmc: https://www.planetminecraft.com/server/dragons-doom/vote/
+  topminecraftservers: https://topminecraftservers.org/vote/4500
+  minecraft-index: https://www.minecraft-index.com/63814-dragons-doom/vote
+titles:
+  janitorCops:
+    firstLine: "&3Cops! This prison is absolutely disgusting!"
+    secondLine: "&bPlease have your inmates sweep the grass and dead bushes in the prison for some extra cash."
+  janitorRobbers:
+    fristLine: "&3The cops are going to have ya inmates clean up the prison!"
+    secondLine: "&bBe the first to clean up the 10 dirt spots (grass and dead bushes) and get a secret key to escape!"
+  cookCops:
+    firstLine: "&3Cops! You got a new shipment of food!"
+    secondLine: "&bPlease have your inmates cook up the food in the kitchen for some extra cash."
+  cookRobbers:
+    fristLine: "&3The cops are going to have ya inmates cook up some food!"
+    secondLine: "&bBe the first to cook up 10 food in the kitchen and get a secret key to escape!"
+  laundrymanCops:
+    firstLine: "&3Cops! Have you seen the stains on the bedsheets?!"
+    secondLine: "&bPlease have your inmates clean the sheets in the laundryroom for some extra cash."
+  laundrymanRobbers:
+    fristLine: "&3The cops are going to have ya inmates clean the bedsheets!"
+    secondLine: "&bBe the first to clean 5 sheets in the laundryroom and get a secret key to escape!"
+  librarianCops:
+    firstLine: "&3Cops! We got a new shipment of books!"
+    secondLine: "&bPlease have your inmates sort books in the library for some extra cash."
+  librarianRobbers:
+    fristLine: "&3The cops are going to have ya inmates sort some books!"
+    secondLine: "&bBe the first to sort 5 books in the library and get a secret key to escape!"
+messages:
+  janitorCops:
+    firstLine: "&3Cops! This prison is absolutely disgusting!"
+    secondLine: "&bPlease have your inmates sweep the grass and dead bushes in the prison for some extra cash."
+  janitorRobbers:
+    fristLine: "&3The cops are going to have ya inmates clean up the prison!"
+    secondLine: "&bBe the first to clean up the 10 dirt spots (grass and dead bushes) and get a secret key to escape!"
+  cookCops:
+    firstLine: "&3Cops! You got a new shipment of food!"
+    secondLine: "&bPlease have your inmates cook up the food in the kitchen for some extra cash."
+  cookRobbers:
+    fristLine: "&3The cops are going to have ya inmates cook up some food!"
+    secondLine: "&bBe the first to cook up 10 food in the kitchen and get a secret key to escape!"
+  laundrymanCops:
+    firstLine: "&3Cops! Have you seen the stains on the bedsheets?!"
+    secondLine: "&bPlease have your inmates clean the sheets in the laundryroom for some extra cash."
+  laundrymanRobbers:
+    fristLine: "&3The cops are going to have ya inmates clean the bedsheets!"
+    secondLine: "&bBe the first to clean 5 sheets in the laundryroom and get a secret key to escape!"
+  librarianCops:
+    firstLine: "&3Cops! We got a new shipment of books!"
+    secondLine: "&bPlease have your inmates sort books in the library for some extra cash."
+  librarianRobbers:
+    fristLine: "&3The cops are going to have ya inmates sort some books!"
+    secondLine: "&bBe the first to sort 5 books in the library and get a secret key to escape!"
